@@ -1,0 +1,58 @@
+{
+  "About": {
+    "languageCode": "zh",
+    "title": "关于我们的演出信息网站",
+    "description": "我们致力于为音乐爱好者提供最新、最全面的演出信息。无论是摇滚、古典还是流行音乐，我们都能满足您的需求。",
+    "exploreEvents": "探索活动",
+    "contactUs": "联系我们",
+    "teamImageAlt": "我们的团队",
+    "missionTitle": "我们的使命",
+    "missionDescription": "我们的使命是连接艺术家和观众，让每一场演出都成为难忘的体验。我们相信音乐的力量，它能够跨越语言和文化的障碍，将人们聚集在一起。",
+    "teamTitle": "认识我们的团队",
+    "teamDescription": "我们的团队由热爱音乐和技术的专业人士组成。每个成员都致力于为用户提供最佳的演出信息体验。"
+  },
+  "Landing": {
+    "languageCode": "zh",
+    "title": "国内涉外演出检索",
+    "description": "除了长城和紫禁城,中国还提供传统与现代的动态融合。体验国际艺术家的世界级音乐会、前沿艺术展览和令人兴奋的文化节。沉浸在一个古老奇迹与当代激情相遇的国度。",
+    "exploreEvents": "探索活动",
+    "learnMore": "了解更多",
+    "whyChina": {
+      "subtitle": "体验中国",
+      "title": "音乐会与旅游",
+      "description": "在中国发现世界级娱乐和文化探索的完美融合。参加难忘的音乐会,探索国家丰富的文化遗产。",
+      "features": {
+        "0": {
+          "name": "热门国际艺术家",
+          "description": "在中国体验像Charlie Puth、YOASOBI、Kanye West、Fujii Kaze等全球明星的表演。"
+        },
+        "1": {
+          "name": "世界级场地",
+          "description": "在拥有出色音响和视觉效果的先进体育场享受音乐会。"
+        },
+        "2": {
+          "name": "风景优美的旅游",
+          "description": "将您的音乐会体验与参观中国令人惊叹的风景和文化景点相结合。"
+        },
+        "3": {
+          "name": "经济实惠且便利",
+          "description": "利用中国的免签旅行,享受经济实惠的娱乐和旅行选择。"
+        }
+      }
+    },
+    "email": {
+      "title": "及时了解中国最新音乐会信息",
+      "subtitle": "订阅我们的通讯",
+      "emailLabel": "电子邮件地址",
+      "emailPlaceholder": "输入您的电子邮件",
+      "subscribeButton": "订阅",
+      "privacyNotice": "获取即将举行的音乐会和巡演的独家更新。我们尊重您的隐私。"
+    }
+  },
+  "RecentUpdates": {
+    "title": "最近48小时更新"
+  },
+  "Dashboard": {
+    "title": "仪表盘"
+  }
+}

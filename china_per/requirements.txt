@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+pandas
+appwrite
+openai
+schedule==1.1.0

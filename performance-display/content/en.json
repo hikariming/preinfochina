@@ -1,0 +1,104 @@
+{
+  "About": {
+    "languageCode": "en",
+    "title": "About Us",
+    "description": "We are a team of music enthusiasts who are passionate about providing the latest and most comprehensive event information to music lovers. Whether you're into rock, classical, or pop music, we've got you covered.",
+    "exploreEvents": "Explore Events",
+    "contactUs": "Contact Us",
+    "teamImageAlt": "Our Team",
+    "missionTitle": "Our Mission",
+    "missionDescription": "Our mission is to connect artists and audiences, making every performance an unforgettable experience. We believe in the power of music to bridge language and cultural barriers, bringing people together.",
+    "teamTitle": "Meet Our Team",
+    "teamDescription": "Our team consists of music and technology enthusiasts. Each member is dedicated to providing the best event information experience for users."
+  },
+  "Landing": {
+    "languageCode": "en",
+    "title": "More Than Just the Great Wall: Experience China's Electrifying Concerts",
+    "description": "Beyond the Great Wall and Forbidden City, China offers a dynamic fusion of tradition and modernity. Experience world-class concerts by international artists, cutting-edge art exhibitions, and exciting cultural festivals. Immerse yourself in a country where ancient wonders meet contemporary excitement.",
+    "exploreEvents": "Explore Events",
+    "learnMore": "Learn More",
+    "whyChina": {
+      "subtitle": "Experience China",
+      "title": "Concerts & Tourism",
+      "description": "Discover the perfect blend of world-class entertainment and cultural exploration in China. Attend unforgettable concerts and explore the country's rich heritage.",
+      "features": {
+        "0": {
+          "name": "Popular International Artists",
+          "description": "Experience performances by global stars like Charlie Puth, YOASOBI, Kanye West, Fujii Kaze, and many more in China."
+        },
+        "1": {
+          "name": "World-Class Venues",
+          "description": "Enjoy concerts in state-of-the-art stadiums with excellent acoustics and visual effects."
+        },
+        "2": {
+          "name": "Scenic Tourism",
+          "description": "Combine your concert experience with visits to China's breathtaking landscapes and cultural sites."
+        },
+        "3": {
+          "name": "Affordable and Convenient",
+          "description": "Take advantage of visa-free travel to China and enjoy cost-effective entertainment and travel options."
+        }
+      }
+    },
+    "email": {
+      "title": "Stay updated on the latest concerts in China",
+      "subtitle": "Subscribe to our newsletter",
+      "emailLabel": "Email address",
+      "emailPlaceholder": "Enter your email",
+      "subscribeButton": "Subscribe",
+      "privacyNotice": "Get exclusive updates on upcoming concerts and tours in China. We respect your privacy."
+    }
+  },
+  "AllTable": {
+    "title": "China Event Information",
+    "logoAlt": "China Event Information Logo",
+    "latestInfo": "Latest Event Information in China",
+    "description": "Find the latest information on concerts, stage performances, and cultural events by popular artists in China. Check out live schedules and venue information for major cities like Beijing, Shanghai, and Guangzhou.",
+    "popularityFilter": {
+      "title": "Performance Popularity",
+      "all": "All",
+      "custom": "Custom",
+      "apply": "Apply"
+    },
+    "searchInstructions": "Please search by field",
+    "searchPlaceholder": "Search...",
+    "searchButton": "Search",
+    "columns": {
+      "performance": "Performance",
+      "area": "Area",
+      "location": "Location",
+      "startTime": "Start Time",
+      "endTime": "End Time",
+      "artist": "Artist",
+      "popularity": "Popularity",
+      "action": "Action"
+    },
+    "noDataFound": "No data found",
+    "viewDetails": "View Details",
+    "pagination": {
+      "prev": "Previous",
+      "next": "Next",
+      "current": "Page",
+      "total": "of",
+      "pages": "pages",
+      "jump": "Jump"
+    }
+  },
+  "Dashboard": {
+    "title": "Dashboard",
+    "popularPerformances": "Popular Performances",
+    "popularPerformancesDescription": "Here are performances by famous artists, well-known shows, and popular venues",
+    "columns": {
+      "performanceName": "Performance Name",
+      "location": "Location",
+      "artist": "Artist",
+      "venue": "Venue",
+      "popularityIndex": "Popularity Index"
+    },
+    "viewDetails": "View Details",
+    "loading": "Loading..."
+  },
+  "RecentUpdates": {
+    "title": "Recent 48 Hours Updates"
+  }
+}
