@@ -5,14 +5,14 @@ import './/globals.css';
 
 export const metadata = {
   title: {
-    default: "Chinese Performance Events - Find Shows in China | Event Information",
-    zh: "中国演出活动 - 寻找中国演出 | 活动信息",
-    ja: "中国パフォーマンスイベント - 中国のショーを探す | イベント情報"
+    default: "Chinese Performance Events - Find Shows in China | Event | Live Information",
+    zh: "中国演出活动 - 寻找中国演出 | 活动信息 | 现场信息",
+    ja: "中国パフォーマンスイベント - 中国のショーを探す | イベント情報 | ライブ情報"
   },
   description: {
-    default: "Discover the latest Chinese performance events and shows. Find information on concerts, theater, and cultural performances across China.",
-    zh: "发现最新的中国演出活动和表演。查找中国各地的音乐会、戏剧和文化表演信息。",
-    ja: "最新の中国パフォーマンスイベントとショーを発見。中国全土のコンサート、劇場、文化公演の情報を見つけましょう。"
+    default: "Discover the latest Chinese performance events and shows. Find information on concerts, theater, and cultural performances , live information across China.",
+    zh: "发现最新的中国演出活动和表演。查找中国各地的音乐会、戏剧和文化表演信息，现场信息。",
+    ja: "最新の中国パフォーマンスイベントとショーを発見。中国全土のコンサート、劇場、文化公演、ライブ情報を見つけましょう。"
   },
   alternates: {
     languages: {
