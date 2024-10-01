@@ -13,9 +13,9 @@ function PerformanceTable({ locale }) {
   const [customPopularity, setCustomPopularity] = useState('');
 
   const columns = {
-    zh: ['演出名称', '区域', '艺术家', '地点', '热门指数', '操作'],
-    en: ['Performance', 'Area', 'Artist', 'Venue', 'Popularity', 'Action'],
-    jp: ['公演名', 'エリア', 'アーティスト', '会場', '人気指数', 'アクション']
+    zh: ['演出名称', '区域', '艺术家', '地点', '开始时间', '热门指数', '操作'],
+    en: ['Performance', 'Area', 'Artist', 'Venue', 'Start Time', 'Popularity', 'Action'],
+    jp: ['公演名', 'エリア', 'アーティスト', '会場', '開始時間', '人気指数', 'アクション']
   };
 
   const langMap = {
@@ -205,6 +205,7 @@ function PerformanceTable({ locale }) {
                     <td className="whitespace-nowrap px-3 py-4 text-sm text-gray-500">{performance[`location_${langCode}`]}</td>
                     <td className="whitespace-nowrap px-3 py-4 text-sm text-gray-500">{performance[`artist_${langCode}`]}</td>
                     <td className="whitespace-nowrap px-3 py-4 text-sm text-gray-500">{performance[`place_${langCode}`]}</td>
+                    <td className="whitespace-nowrap px-3 py-4 text-sm text-gray-500">{new Date(performance.start_time).toLocaleString(locale)}</td>
                     <td className="whitespace-nowrap px-3 py-4 text-sm text-gray-500">{performance.hot_index}</td>
                     <td className="relative whitespace-nowrap py-4 pl-3 pr-4 text-right text-sm font-medium sm:pr-0">
                       <Link href={`/${locale}/performance/${performance.$id}`} className="text-indigo-600 hover:text-indigo-900">

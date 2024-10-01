@@ -19,7 +19,8 @@ export async function GET(request) {
   try {
     let queries = [
       Query.limit(limit),
-      Query.offset((page - 1) * limit)
+      Query.offset((page - 1) * limit),
+      Query.orderDesc('start_time')  // 添加这行来按 start_time 倒序排序
     ];
 
     if (search) {
